@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Backup Bolt\n"
+"POT-Creation-Date: 2022-03-18 16:18+0530\n"
+"PO-Revision-Date: 2022-03-18 16:18+0530\n"
+"Last-Translator: \n"
+"Language-Team: vj@gowebsmarty.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/pages.php:39
+msgid ""
+"wp-content directory includes most of your site including plugins, themes, "
+"uploads, etc.,"
+msgstr ""
+
+#: admin/pages.php:40
+msgid ""
+".htaccess file includes your permalink structure, redirects, cache "
+"configurations."
+msgstr ""
+
+#: admin/pages.php:41
+msgid ""
+"wp-config.php file holds all your WordPress credentials including database "
+"login, security keys."
+msgstr ""
+
+#: admin/pages.php:42
+msgid ""
+"FULL WordPress installation including wp-admin, wp-content, wp-includes & "
+"root directory files"
+msgstr ""
+
+#: admin/pages.php:54
+msgid "BACKUP NOW"
+msgstr ""
+
+#: admin/pages.php:57
+msgid "ABORT"
+msgstr ""
+
+#: admin/pages.php:58
+msgid "PROCEED"
+msgstr ""
+
+#: admin/pages.php:66
+msgid "LAST BACKUP TIME"
+msgstr ""
+
+#: admin/pages.php:66
+msgid "DOWNLOAD BACKUP"
+msgstr ""
+
+#: admin/pages.php:67
+msgid "NOTE"
+msgstr ""
+
+#: admin/pages.php:67
+msgid "Backups will be auto deleted every 24Hrs"
+msgstr ""
+
+#: admin/pages.php:105
+msgid "No recent backup to download. Please run backup again."
+msgstr ""
+
+#: inc/babo_backup.php:46
+msgid "Backup process started via CLI"
+msgstr ""
+
+#: inc/babo_backup.php:72
+msgid "Backup aborted - zip extension not available on this server"
+msgstr ""
+
+#: inc/babo_backup.php:76
+msgid "Backup aborted - source path invalid"
+msgstr ""
+
+#: inc/babo_backup.php:79
+msgid "Zip extension found"
+msgstr ""
+
+#: inc/babo_backup.php:84
+msgid "Backup aborted - could not initiate zip archive class"
+msgstr ""
+
+#: inc/babo_backup.php:88
+msgid "Backup aborted - could not open zip destination"
+msgstr ""
+
+#: inc/babo_backup.php:94
+msgid "Compressing files to zip archive"
+msgstr ""
+
+#: inc/babo_backup.php:163
+#, php-format
+msgid "Backup completed in %f seconds!"
+msgstr ""
+
+#: inc/babo_utility.php:26
+msgid "FULL BACKUP"
+msgstr ""
